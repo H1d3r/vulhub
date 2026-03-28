@@ -13,7 +13,7 @@ chardet==5.1.0
 configparser==6.0.0
 decorator==5.1.1
 docutils==0.20.1
-ecdsa==0.18.0
+ecdsa==0.19.2
 enum-compat==0.0.3
 ephem==4.1.4
 future==0.18.3
@@ -26,7 +26,7 @@ paramiko==3.2.0
 passlib==1.7.4
 pyasn1==0.5.0
 pycparser==2.21
-cryptography==41.0.2
+cryptography==46.0.6
 pycryptodome==3.18.0
 pycryptodomex==3.18.0
 phonenumbers==8.13.17
@@ -36,7 +36,7 @@ pyotp==2.8.0
 pynacl==1.5.0
 python-dateutil==2.8.2
 pyyaml==6.0.1
-requests==2.31.0
+requests==2.33.0
 jms-storage==0.0.52
 simplejson==3.19.1
 six==1.16.0
